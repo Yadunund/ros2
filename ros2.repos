@@ -270,7 +270,7 @@ repositories:
   ros2/rcl:
     type: git
     url: https://github.com/ros2/rcl.git
-    version: d680ff3a72cd2bdf90f8aeccf2ead38171ecfb84
+    version: d9daca7c0af7ecdcd103ece30bb7c64bc919ef24
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
@@ -282,7 +282,7 @@ repositories:
   ros2/rclcpp:
     type: git
     url: https://github.com/ros2/rclcpp.git
-    version: 50a1e50133dd2cb63b0ebe25a586cb8111f83fb4
+    version: 41d3a27437973e85cf8fbb5612beb82fb6811e98
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
@@ -402,7 +402,7 @@ repositories:
   ros2/system_tests:
     type: git
     url: https://github.com/ros2/system_tests.git
-    version: 299574b3284eb7e4f7723346fa547e2677e308ab
+    version: b698ef5329de45a167a451206a46ec2075350921
   ros2/test_interface_files:
     type: git
     url: https://github.com/ros2/test_interface_files.git
