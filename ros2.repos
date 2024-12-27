@@ -2,39 +2,39 @@ repositories:
   ament/ament_cmake:
     type: git
     url: https://github.com/ament/ament_cmake.git
-    version: 2366f15479e37d552d4e225f09ccef1c6ccc8c4e
+    version: 08de9432ab83f96840fa1af4791f2d227bf62007
   ament/ament_index:
     type: git
     url: https://github.com/ament/ament_index.git
-    version: ac78028e4c8afab9f0dbe1635d9841d33663a8a2
+    version: 75b27b43ffa9702ffe867a7ca2b622a7324faf20
   ament/ament_lint:
     type: git
     url: https://github.com/ament/ament_lint.git
-    version: adc41c38aa522ac621513abba9660f3924d6506f
+    version: a5d96f47984502fcb144acc3fe32ececf64c3cfe
   ament/ament_package:
     type: git
     url: https://github.com/ament/ament_package.git
-    version: 2695c27e809ad431eebec608ea4ebf74d7f015c7
+    version: 5090b28ef9d02fffc41cc1cd04883e3ac2c8f4a6
   ament/google_benchmark_vendor:
     type: git
     url: https://github.com/ament/google_benchmark_vendor.git
-    version: 6d538321c25e895c574920225bae652a498f3849
+    version: 0de27c29e3fa10c13b579f4b31fe6e03e4352ce2
   ament/googletest:
     type: git
     url: https://github.com/ament/googletest.git
-    version: 826d84bcc66eec650242bf360a565597e6aaad56
+    version: c78f370f65b2531dd31ccbb6526704ba2b5a08c8
   ament/uncrustify_vendor:
     type: git
     url: https://github.com/ament/uncrustify_vendor.git
-    version: 10ae38627f40c87583088fb5d0ec3551c26c8e59
+    version: 3576a545202e1a7cd5f2002326bee97b01d8bd9b
   eProsima/Fast-CDR:
     type: git
     url: https://github.com/eProsima/Fast-CDR.git
-    version: ae920520a9d7c7c3facba2445045d8a2d0b268ba
+    version: 9149259a1eb54a9b1104a9f622f89b00a66b6011
   eProsima/Fast-DDS:
     type: git
     url: https://github.com/eProsima/Fast-DDS.git
-    version: 48a8776a28b25b24d478d1d1e140da555270c806
+    version: c2a4523a21a94302298bc995057719546b72df2d
   eProsima/foonathan_memory_vendor:
     type: git
     url: https://github.com/eProsima/foonathan_memory_vendor.git
@@ -54,143 +54,143 @@ repositories:
   gazebo-release/gz_math_vendor:
     type: git
     url: https://github.com/gazebo-release/gz_math_vendor.git
-    version: 3d716eaefea2de98f7bc2276fcb87aa36206b3ab
+    version: 31526da540fd4a94e06a5d1d53e48efcee766cef
   gazebo-release/gz_utils_vendor:
     type: git
     url: https://github.com/gazebo-release/gz_utils_vendor.git
-    version: 92070fbb4e00658a2cc39b1c23330e1a07f9bbfc
+    version: e301104ec649048f7c7f3ead0a4d5079740c3b79
   osrf/osrf_pycommon:
     type: git
     url: https://github.com/osrf/osrf_pycommon.git
-    version: f65f8594161dcff276813d59d3c1145ce767bb75
+    version: 94b0d8e89a4000db8bee7b1c70dd8772a20b6229
   osrf/osrf_testing_tools_cpp:
     type: git
     url: https://github.com/osrf/osrf_testing_tools_cpp.git
-    version: 773bffaf2bf8f169083d2a4dda680f60aae9f9c2
+    version: faf89219f9a4fc6e6e51011f30a9580b09cf3aed
   ros-perception/image_common:
     type: git
     url: https://github.com/ros-perception/image_common.git
-    version: ebd91a90503450041b8b29463c7c86e1ebb8b97d
+    version: b021202a42d7bc3ff3215237ded251a59c282da5
   ros-perception/laser_geometry:
     type: git
     url: https://github.com/ros-perception/laser_geometry.git
-    version: c8772fe22cee0dc73e219fa0bddaac88e4813cac
+    version: 71ba748322a38821eca58e79aeec475379026b68
   ros-perception/point_cloud_transport:
     type: git
     url: https://github.com/ros-perception/point_cloud_transport.git
-    version: bcda57614b244e68d97f54bfde97a82336d24168
+    version: 0350a390bdd8cc39c509b71614a4c613457ce909
   ros-planning/navigation_msgs:
     type: git
     url: https://github.com/ros-planning/navigation_msgs.git
-    version: 6526fdd075612d4707eae4797a12afcb0e97cd60
+    version: 13df573cc666f579cbad3e76792d0f967241e260
   ros-tooling/keyboard_handler:
     type: git
     url: https://github.com/ros-tooling/keyboard_handler.git
-    version: 49d9b91e07460a04d5fc07726cc82c06c27610eb
+    version: baafa63c064a2bcbdd26b1adc28d9da14629afbf
   ros-tooling/libstatistics_collector:
     type: git
     url: https://github.com/ros-tooling/libstatistics_collector.git
-    version: 7f1694c06a502d986f586bad6216220361e2bd2d
+    version: 34d7205a495ef9f4020f5f88ffef48216ff76972
   ros-visualization/interactive_markers:
     type: git
     url: https://github.com/ros-visualization/interactive_markers.git
-    version: 60ad597c619a59e1f99abb04648c319e1d9f42ae
+    version: 3c5148f7fd09f954e214ce7c8243b29af3621855
   ros-visualization/python_qt_binding:
     type: git
     url: https://github.com/ros-visualization/python_qt_binding.git
-    version: d68d3d4221dd4dcbb0d37046a1dac3a6742f49e3
+    version: 454aadef8e7832ca2e2194e1d154615482a91958
   ros-visualization/qt_gui_core:
     type: git
     url: https://github.com/ros-visualization/qt_gui_core.git
-    version: e1f30f9859a5a15d58fdd93e7f9f23d4d67184f4
+    version: 880d773a9166a16970cbd7e00b83b36e0d4fd0d5
   ros-visualization/rqt:
     type: git
     url: https://github.com/ros-visualization/rqt.git
-    version: ea208a5db98c2dde5b98e74be9cb34865449a923
+    version: 59aa8f5a850e177be6e18aa8bc4e7857f16e38b2
   ros-visualization/rqt_action:
     type: git
     url: https://github.com/ros-visualization/rqt_action.git
-    version: 7e9ad9d13de0a88cab231266eb3cb32d00199438
+    version: a0427dbaed8c5b2390d583bbb0905b9b5f59d60f
   ros-visualization/rqt_bag:
     type: git
     url: https://github.com/ros-visualization/rqt_bag.git
-    version: 90f0fa1a124ed54cd7bf8dac293550ca11b2bb58
+    version: 611073e41effb27bd3b90a0dd361e152dcd52eb7
   ros-visualization/rqt_console:
     type: git
     url: https://github.com/ros-visualization/rqt_console.git
-    version: 5ceff5adc9453697d6f336cc446c22168446d151
+    version: d16cb10361f86e3310669e831bde3376c5806c34
   ros-visualization/rqt_graph:
     type: git
     url: https://github.com/ros-visualization/rqt_graph.git
-    version: cd40aeacc11f3674730b3530eb57a122832517b6
+    version: 90e5f729a4b903105d0f8ecc11cced1061b63975
   ros-visualization/rqt_msg:
     type: git
     url: https://github.com/ros-visualization/rqt_msg.git
-    version: d285e678529ba4bbb1c0218500819f85292c9b63
+    version: d76adcec529ee7018d92c42045dce297d2a5bcfc
   ros-visualization/rqt_plot:
     type: git
     url: https://github.com/ros-visualization/rqt_plot.git
-    version: d1707e141b4294ed27386e1518dd1854ed4b1217
+    version: 262826e84be01780f75e6a49a416141b19b8d743
   ros-visualization/rqt_publisher:
     type: git
     url: https://github.com/ros-visualization/rqt_publisher.git
-    version: db2fe16cc9bda7c4a4aec1e405b22544bd8f1e26
+    version: eb662453063735c8adad689fa7cad047989aae45
   ros-visualization/rqt_py_console:
     type: git
     url: https://github.com/ros-visualization/rqt_py_console.git
-    version: a33aa0c6c2c5a196bcb75b42695118ded1848526
+    version: 8297b6695bea66212e2e88776b39368c61c98225
   ros-visualization/rqt_reconfigure:
     type: git
     url: https://github.com/ros-visualization/rqt_reconfigure.git
-    version: 460f52a64145547b851246f57b64fe030596deb2
+    version: 6ce86a47710a5ec3d56e4a92d42f7b36a5a4f4fa
   ros-visualization/rqt_service_caller:
     type: git
     url: https://github.com/ros-visualization/rqt_service_caller.git
-    version: 2417633f6b430d4ffd6951a7d37569a9ad43b7cc
+    version: 63a1c11de44868f0d41d82ce17c5131d70cfeb4b
   ros-visualization/rqt_shell:
     type: git
     url: https://github.com/ros-visualization/rqt_shell.git
-    version: b2a14c500df85d87bece42546984307370105d50
+    version: 9c9550f5a51b2fac713006fa034f2e57cf362c9b
   ros-visualization/rqt_srv:
     type: git
     url: https://github.com/ros-visualization/rqt_srv.git
-    version: 9432253271b36629e41b42e5b4132c6b2f0e168e
+    version: f544d93a4521adfd09936de1f660c47956cae80b
   ros-visualization/rqt_topic:
     type: git
     url: https://github.com/ros-visualization/rqt_topic.git
-    version: f2ba9fa3ae48b37a7f45292dfed6491a07812ce6
+    version: 32d741501ec12c5db1860140af4bfc13e38597a6
   ros-visualization/tango_icons_vendor:
     type: git
     url: https://github.com/ros-visualization/tango_icons_vendor.git
-    version: 4c20129d16e81dac0d220f1b74cd0b2913e6b12d
+    version: 94e4d120f14fdc74922152b16d48391958d9c002
   ros/class_loader:
     type: git
     url: https://github.com/ros/class_loader.git
-    version: 766ab3d0619d03c4083ea6ac7f35e432fcfcd7b3
+    version: 464fd149cd82e2259d3e1f6f77d6669d1819e124
   ros/kdl_parser:
     type: git
     url: https://github.com/ros/kdl_parser.git
-    version: 8b282c7fcb0b3d17a0d948099e544270a905283e
+    version: 20572f2884555bb35747cef6bd31adafd4e5dbf4
   ros/pluginlib:
     type: git
     url: https://github.com/ros/pluginlib.git
-    version: d4819f40f9af878dadb862b0db7d2f1885ab411f
+    version: bf5458ec77830a20e9900dfd75284982f3de7003
   ros/resource_retriever:
     type: git
     url: https://github.com/ros/resource_retriever.git
-    version: fa09d110f24b978f97996b4682967f1853bc294c
+    version: d5f0b7b3c66cb1d7148a13293895406c30172532
   ros/robot_state_publisher:
     type: git
     url: https://github.com/ros/robot_state_publisher.git
-    version: 65e4d964e66dab348aac43053855c584dbddd620
+    version: be491624cc808fe2bb8689c630748c09608400eb
   ros/ros_environment:
     type: git
     url: https://github.com/ros/ros_environment.git
-    version: 1adc62d04cda33aa1758eca6a216f7b80d19d7a8
+    version: b7c5a131f8010efe111f325df7d4d0529d60c27e
   ros/ros_tutorials:
     type: git
     url: https://github.com/ros/ros_tutorials.git
-    version: 950b465388b31d53296765366f12d2bd60f4737a
+    version: 54c2b3c70884f957453419b91c58f89d66b4563e
   ros/urdfdom:
     type: git
     url: https://github.com/ros/urdfdom.git
@@ -198,163 +198,163 @@ repositories:
   ros/urdfdom_headers:
     type: git
     url: https://github.com/ros/urdfdom_headers.git
-    version: 7b1b3a44509985b953526dcd1fffacd3b2f92615
+    version: 1c364b5f62b5886ae9849909a7add20fab12c218
   ros2/ament_cmake_ros:
     type: git
     url: https://github.com/ros2/ament_cmake_ros.git
-    version: 3e7d57bd05a4863ac4617970c995a93b0f1787a2
+    version: 21748df4b59b1fd149d42c664e092fde4e9179f4
   ros2/common_interfaces:
     type: git
     url: https://github.com/ros2/common_interfaces.git
-    version: 50cccb2dc164ae10a92c9360524eb169627bd36a
+    version: 7f75faa7ba1b992456194f38bbbebd3511015c10
   ros2/console_bridge_vendor:
     type: git
     url: https://github.com/ros2/console_bridge_vendor.git
-    version: f7bae93d9ea45dd7aa72681109c1811619481cc1
+    version: 48d7463d0d0c2dd5e959379047afde6044945902
   ros2/demos:
     type: git
     url: https://github.com/ros2/demos.git
-    version: 5d35b9abf39697e353fe5a8b09ba17f2ce4d0b9f
+    version: cbb174232b322eb3231d54af05765558c093ceca
   ros2/eigen3_cmake_module:
     type: git
     url: https://github.com/ros2/eigen3_cmake_module.git
-    version: 870241181115073635649f7747a94667c839e8e7
+    version: c2e55163af84596e0aa84a5265bf716870e0a1a7
   ros2/example_interfaces:
     type: git
     url: https://github.com/ros2/example_interfaces.git
-    version: dec9e55175f95f0feecc46213df3a26c8543313f
+    version: 00cb25584ab611c34686e024a06a47728550ef72
   ros2/examples:
     type: git
     url: https://github.com/ros2/examples.git
-    version: 7d93303bdfd66d6318d8677e774be469e70e8093
+    version: 4a4082a8db04fd3d587bd0d2052ae0c439e788c6
   ros2/geometry2:
     type: git
     url: https://github.com/ros2/geometry2.git
-    version: 714f45643ca2c403eff2c1462b1850ee5e1a5a84
+    version: b9f6056c6ef91e75599c80e03aca81b88591bb34
   ros2/launch:
     type: git
     url: https://github.com/ros2/launch.git
-    version: f2ee3a8cf44902ce412a6b272e4eff36792892fa
+    version: 02595bafc7891d4d287667b6aa9161edf738e9f3
   ros2/launch_ros:
     type: git
     url: https://github.com/ros2/launch_ros.git
-    version: 2ddcc227358e393507d09b56e19f27f8bd1e1a14
+    version: f9ab9371824d470bca47602bc7d277eb2217c90d
   ros2/libyaml_vendor:
     type: git
     url: https://github.com/ros2/libyaml_vendor.git
-    version: b4077c82ee3ac7cfe767276c44b585e921c87aac
+    version: 855754620fd05bdc7601d464958522b395435f3c
   ros2/message_filters:
     type: git
     url: https://github.com/ros2/message_filters.git
-    version: 6f4c51029e3936d03f2a0249085e79da0853d7b3
+    version: 77c31e69acbb21e221fc521c1b652bf0c4d1cb45
   ros2/mimick_vendor:
     type: git
     url: https://github.com/ros2/mimick_vendor.git
-    version: aad6edc1cfdc0dcca18fcd2ea3d11a585662f408
+    version: 55401a749abb29047fb6a80227f945c6883150c7
   ros2/orocos_kdl_vendor:
     type: git
     url: https://github.com/ros2/orocos_kdl_vendor.git
-    version: 75774366e9494a475f334e2f9411ed94325aea45
+    version: b86d2da3fb48a2288e7387f37e0445e54045a1b2
   ros2/performance_test_fixture:
     type: git
     url: https://github.com/ros2/performance_test_fixture.git
-    version: ea87e5d74064d91b2a166a29a47600028fd61f2e
+    version: 3e0177bcd49ddc898f371ff6ea5b76d7d5ded46d
   ros2/pybind11_vendor:
     type: git
     url: https://github.com/ros2/pybind11_vendor.git
-    version: e8b3edb280efc6eea36b7218e0b71cdc8c85b7e4
+    version: ea251ffc8b07907e15b506b6a6d4caf94b1c887a
   ros2/rcl:
     type: git
     url: https://github.com/ros2/rcl.git
-    version: ef5a6723a433b05b04e44f6351d86537e4a0c2eb
+    version: 673c558fa7ff5434a489857df75064ebdb0ee5a8
   ros2/rcl_interfaces:
     type: git
     url: https://github.com/ros2/rcl_interfaces.git
-    version: f6b3741d921ef5414125091b2ccc74b863be3c24
+    version: e17f2ea368eeeec7211a050b02b208b9a2b8c349
   ros2/rcl_logging:
     type: git
     url: https://github.com/ros2/rcl_logging.git
-    version: 21c2d19ce28efb91dab764c7bbfc9017f7a06c71
+    version: c8d466d9a0aacdb4974515fc249dc5a2327dcf6b
   ros2/rclcpp:
     type: git
     url: https://github.com/ros2/rclcpp.git
-    version: 7e9ff5f4c774e6c0b28268f2d2b1b03fc52383a2
+    version: a0a2a067d84fd6a38ab4f71b691d51ca5aa97ba5
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
-    version: e6b625ea88d439b54b4afee56cc81c4ebd7e55c4
+    version: ba72a017a9a1f8d2a92e615cafed318d99f7576f
   ros2/rcpputils:
     type: git
     url: https://github.com/ros2/rcpputils.git
-    version: 35da074b1eb9ab94a869bc00dbae9922e2ed8c71
+    version: b38ab3ecd2ee0a78b3a9af621b5c65f3dc77f370
   ros2/rcutils:
     type: git
     url: https://github.com/ros2/rcutils.git
-    version: 33dfd91d1a14e2d70f77a5a3c1700895ab23f380
+    version: 6b5932c7fc7108f412ba1a7ef83990c510f9f036
   ros2/realtime_support:
     type: git
     url: https://github.com/ros2/realtime_support.git
-    version: e21fc2d2d36c0e53009063cba305ac4935b90dd6
+    version: 9390dd1a81a4c4299a57cfe01b8ac33bc77352ca
   ros2/rmw:
     type: git
     url: https://github.com/ros2/rmw.git
-    version: 33118c9d4dc2adec838962554f0e09ab5c15d1e0
+    version: db4d05e9706d5474b0ac53f7a500c331d6140499
   ros2/rmw_connextdds:
     type: git
     url: https://github.com/ros2/rmw_connextdds.git
-    version: 92f0925e90094519351cfe7db05d8f282bfe85d3
+    version: e49aa1e61902ee4f52e1d6290850533d4d76dc04
   ros2/rmw_cyclonedds:
     type: git
     url: https://github.com/ros2/rmw_cyclonedds.git
-    version: 00806e6358d95eafc137e0e51ae101616f54650d
+    version: 854b89d5b03110e63d778908c35d55d01d8495d1
   ros2/rmw_dds_common:
     type: git
     url: https://github.com/ros2/rmw_dds_common.git
-    version: 0cf1ce476af39f8706004ea5432d00645aa93a66
+    version: 6d3a10a660fac7073bdf24ca37c7d4d21ddd434d
   ros2/rmw_fastrtps:
     type: git
     url: https://github.com/ros2/rmw_fastrtps.git
-    version: 417c54ed5dfcde82d27d3a2c90eca9041047d4f3
+    version: 508ad9dd2ce05cb831ba00e9784c5f334101174c
   ros2/rmw_implementation:
     type: git
     url: https://github.com/ros2/rmw_implementation.git
-    version: 976e2ffac53cbf27123da78273c864fb7b4b742d
+    version: 74bd075495a25286839881f5f500e1c9b9926f4c
   ros2/ros2_tracing:
     type: git
     url: https://github.com/ros2/ros2_tracing.git
-    version: 9722d25f4eac15d309853f148b53aa8cd4ce367e
+    version: 03ccd0bb4aa679181411d15d4cf0f34edf7968cf
   ros2/ros2cli:
     type: git
     url: https://github.com/ros2/ros2cli.git
-    version: e77104637de7b4b8f9fa0f02210554c789e465b6
+    version: e20d2c664fc2981b0b80ebed534e5becc6fdbf34
   ros2/ros2cli_common_extensions:
     type: git
     url: https://github.com/ros2/ros2cli_common_extensions.git
-    version: 0f534ff70bf75a4b1454518b16b87494e35424c4
+    version: e70b426edd29e6c3a33b62532e06e2d964eccce9
   ros2/ros_testing:
     type: git
     url: https://github.com/ros2/ros_testing.git
-    version: 3fe60b388c11648a74005e3063fb69639150787a
+    version: a60a6d11b5761288f2238651ee4f48c3b99ad373
   ros2/rosbag2:
     type: git
     url: https://github.com/ros2/rosbag2.git
-    version: ebd9ed0b786b2ca8bef00554fb8d1655fc9b55fb
+    version: 0823be2723e04715baacf99625b844cb88f58c21
   ros2/rosidl:
     type: git
     url: https://github.com/ros2/rosidl.git
-    version: a2590c9a95e802b0200a04c5b5b4ffdee34d94d8
+    version: bf5682e4747843d1d5133b9a2b54ce6f12f166c7
   ros2/rosidl_core:
     type: git
     url: https://github.com/ros2/rosidl_core.git
-    version: 0ac65c0bfe629340d8d3569e0be1dce0e732a345
+    version: 39a301d7663986d8c819a3017350751cc576ffb0
   ros2/rosidl_dds:
     type: git
     url: https://github.com/ros2/rosidl_dds.git
-    version: 395a946f1cde1999ddb78cb31717d0991421a317
+    version: 7ae0dda92a6dbf41d2c06abf26a5662e17c1dcbd
   ros2/rosidl_defaults:
     type: git
     url: https://github.com/ros2/rosidl_defaults.git
-    version: 0f2defcb7022132a11d96532d123c1eafc905182
+    version: 25d6e3bc29ffd4fb6fd04b120198fe4510e096a5
   ros2/rosidl_dynamic_typesupport:
     type: git
     url: https://github.com/ros2/rosidl_dynamic_typesupport.git
@@ -366,31 +366,31 @@ repositories:
   ros2/rosidl_python:
     type: git
     url: https://github.com/ros2/rosidl_python.git
-    version: 498f665165c23ca33685a4209920de0cc0103b15
+    version: 4b5dfcf87c7a60539b2be21c08feda46df34c79c
   ros2/rosidl_runtime_py:
     type: git
     url: https://github.com/ros2/rosidl_runtime_py.git
-    version: 3327b1dc488af514017c5446ffff12d102bbe94a
+    version: e6c860fec22ffc44556d6d87f730e2d07a8cc62b
   ros2/rosidl_typesupport:
     type: git
     url: https://github.com/ros2/rosidl_typesupport.git
-    version: 818eecb2474ee807347a7f61409129c6d4c096cd
+    version: bb747835db2a05a4ce09be7d9961369024a68754
   ros2/rosidl_typesupport_fastrtps:
     type: git
     url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
-    version: 4205c9e47ba54134612b68577187d50bf519022d
+    version: 04fc1d0b27de1209449fe07b8851aec4292a8093
   ros2/rpyutils:
     type: git
     url: https://github.com/ros2/rpyutils.git
-    version: 6842af38384d829ad6f07becca0e281ae1acd651
+    version: b2be60d99223b859e65db6fe912bff8a260b7b84
   ros2/rviz:
     type: git
     url: https://github.com/ros2/rviz.git
-    version: c7a05d9e075c75acf88ad5d0461f5f828d7de817
+    version: be68734b712dbc0f1f556d520bb993eb954fdaff
   ros2/spdlog_vendor:
     type: git
     url: https://github.com/ros2/spdlog_vendor.git
-    version: ddbe8fe82f868e1418590e1dd0b64d6b863de508
+    version: b391a1d9919273f46a2f6be2496caa4ce19c3f95
   ros2/sros2:
     type: git
     url: https://github.com/ros2/sros2.git
@@ -398,28 +398,28 @@ repositories:
   ros2/system_tests:
     type: git
     url: https://github.com/ros2/system_tests.git
-    version: 8ec4999492b78a2a900ef54f3dfb8c24f6a281c4
+    version: f09a98a46f84ee6e07ead2626fc2ed63bf429dd7
   ros2/test_interface_files:
     type: git
     url: https://github.com/ros2/test_interface_files.git
-    version: 3b3ad0787855e25d0efc2304f7e68f080e748160
+    version: 25d4b699e4bcd28ab4d900dd73540ea341b8c508
   ros2/tinyxml2_vendor:
     type: git
     url: https://github.com/ros2/tinyxml2_vendor.git
-    version: 9f8343d28f009e1c911b1cb979ef91dd813626c7
+    version: b66cece6ed99ba3c3b2b64bc56c0f717dd33243b
   ros2/tlsf:
     type: git
     url: https://github.com/ros2/tlsf.git
-    version: 098bc74d8aa7546c0144393e9d6fcbba96348474
+    version: e0894b37a5da070a432e8229b0c5cc2c5b750c66
   ros2/unique_identifier_msgs:
     type: git
     url: https://github.com/ros2/unique_identifier_msgs.git
-    version: 0d6c41ef5fc060f8dac7aae5dbad93692826b9e6
+    version: 2640ac258049686f27bb3f1d43ce558e942ae8e8
   ros2/urdf:
     type: git
     url: https://github.com/ros2/urdf.git
-    version: 348d7ba490b34defcd39dd36fec67ab79994aa0f
+    version: 4722b6fac76e727221f41d6c4e7ed2a583573274
   ros2/yaml_cpp_vendor:
     type: git
     url: https://github.com/ros2/yaml_cpp_vendor.git
-    version: cb9b3a0cfd15a27e8362ce6deb183e486796f8ec
+    version: cadad84c6930ec1518e842460cd83cd0ab2908e3
